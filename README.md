@@ -7,12 +7,15 @@ This repository contains an analysis of global trends in Life Expectancy and Fer
   
 ## Key Insights
   1960: Countries with higher fertility rates generally exhibited lower life expectancies.
+  
   2013: Fertility rates dropped globally, while life expectancy increased, indicating improvements in healthcare and economic development.
 
 ### Regional Trends
   Developed nations consistently showed lower fertility rates and higher life expectancy across both periods.
+  
   Developing nations experienced significant improvements in life expectancy, though fertility rates, while declining, remained higher than in developed countries.
 
 ## Implications
   The global trend points toward lower fertility rates and higher life expectancy, which has significant implications for future population growth, economic development, and policy       planning.
+  
   Nations must address challenges related to aging populations, healthcare sustainability, and workforce dynamics as these trends continue.
